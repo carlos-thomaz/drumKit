@@ -1,0 +1,1 @@
+Exercicio de JavaScript "7 projetos em 7 dias".
